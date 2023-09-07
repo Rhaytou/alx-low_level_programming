@@ -4,7 +4,7 @@
  * Main function declaration
  * Prints the phrase with proper grammar
  * Return 0
-*/
+ */
 
 int main(void)
 {
